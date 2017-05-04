@@ -51,4 +51,4 @@ SpeedControl_fnc = {
 		} foreach vehicles;
 	};
 };
-hint "VEHCOM initilize";
+hint "VEHCOM initilized";
