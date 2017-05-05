@@ -1,0 +1,8 @@
+profile = Coolfact;
+exportDirectory = C:\Users\WHO\Documents\Arma 3 - Other Profiles\Coolfact\missions;
+autoExport = false;
+terrain = Altis;
+
+
+@ignore "link.sqdev"
+@ignore ".project"

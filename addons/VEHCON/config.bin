@@ -1,0 +1,14 @@
+class CfgFunctions
+{
+	class VEHCON
+	{
+		class myCategory
+		{
+			file = "VEHCOM";
+			class init
+			{
+				postInit = 1;
+			};
+		};
+	};
+};
