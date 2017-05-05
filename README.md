@@ -1,2 +1,0 @@
-# VEHCOM
-Control aggressive AI
